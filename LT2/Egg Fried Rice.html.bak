@@ -1,0 +1,30 @@
+<!DOCTYPE html>	
+<html>
+<head>
+	<title> Egg Fried Rice</title>
+</head>
+<body>
+<h1> Egg Fried Rice </h1>
+<img src="eggfriedrice.jpg" title="Egg Fried Rice" alt= "Egg Fried Rice" width="450" height="300">
+<h1> INGREDIENTS </h1>
+<ul>
+	<li> Rice (as much as you fancy, really!) </li>
+	<li> Half an onion (or more, again if you fancy it) </li>
+	<li> A tin of sweetcorn </li>
+	<li> A few mushrooms </li>
+	<li> 1-2 eggs </li>
+</ul>
+
+<h1> METHOD </h1>
+<ol>
+	<li> Start cooking the rice however you do,and put some oil in a frying pan. </li>
+	<li> Chop the onions into bits, any size really, doesn't matter particularly and
+		<br> throw into the frying pan. </li>
+	<li>  </li>
+	<li>  </li>
+	<li>  </li>
+	<li>  </li>
+</ol>
+
+</body>
+</html>

@@ -11,6 +11,7 @@
     <li> <a href= "/LT3/index.html"> LEARNING TASK 3 </a> </li>
     <li> <a href= "/CLE1MT/index.html"> CULMINATING LEARNING EVIDENCE 1 </a> </li>
     <li> <a href= "/LT4/index.html"> LEARNING TASK 4 </a> </li>
+    <li> <a href= "/LT5/index.html"> LEARNING TASK 5 </a> </li>
   </ul>
   </body>
   </html>

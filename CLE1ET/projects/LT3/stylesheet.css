@@ -1,0 +1,50 @@
+ <body>
+		<style>
+			#wrapper{
+				width: 1000px;
+				height: 400px;
+				padding: 100px;
+                float: center;
+				
+			}
+			#wrapper div{
+				width: 192px;
+				height: 300px;
+				margin: 2px;
+				border: 2px solid red;
+				float: center;
+				font-size: 24px;
+			}
+			#wrapper #box-one{
+				background-color: blue;
+				border: 2px solid red;
+			}
+			#wrapper #box-two{
+				background-color: green;
+				border: 2px dotted gold;
+			}
+			#wrapper #box-three{
+				background-color: mediumaquamarine;
+				border: 2px dashed black;
+			}
+			#wrapper #box-four{
+				background-color: silver;
+				border: 2px double blue;
+			}
+		</style>
+        
+        
+		<div id = "wrapper">
+			<div id= "box-one">1</div>
+			<div id= "box-two">2</div>
+			<div id= "box-three">3</div>
+			<div id= "box-four">4</div>
+            <div id= "box-five">5</div>
+            <div id= "box-six">6</div>
+            <div id= "box-seven">7</div>
+            <div id= "box-eight">8</div>
+            <div id= "box-nine">9</div>
+            <div id= "box-ten">10</div>
+            
+		</div>
+        </body>

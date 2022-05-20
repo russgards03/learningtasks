@@ -1,0 +1,37 @@
+body,html{
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    background-color: black;
+    font-family: sans-serif;
+    font-size: 32px;
+    margin-left: auto;
+    color: white;
+}
+
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+
+a{
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 1.2vw;
+}
+
+/*gallery*/
+            
+button{
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+    margin-top: 920px;
+}
+
+div{
+    display: flex;
+    justify-content: left;
+}

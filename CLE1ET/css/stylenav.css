@@ -1,0 +1,8 @@
+ul.navigation{
+    width: auto;
+    position: absolute;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-left: 4%;
+}
